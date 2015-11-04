@@ -7,6 +7,8 @@ function shuffle(o){ //v1.0
     return o;
 };
 
+
+
 // Receives the number of elements to 
 // include in the game. 
 // Returns an array with the cards to include
